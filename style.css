@@ -46,3 +46,42 @@ img {
     background-repeat: no-repeat;
     background-position: right;
 }
+
+.experience-section {
+    width: 40%;
+    height: 350px;
+    margin-left: 6%;
+    padding-left: 20px;
+    background-color: rgb(235, 255, 247);
+    border-left: green solid 7px;
+    box-shadow: 10px 10px 40px 15px #a7a7a7;
+}
+
+.developertitle {
+    font-size: 30px;
+}
+
+.developeraim {
+    font-size: 20px;
+    color: orange;
+}
+
+.experience-section p {
+    line-height: 35px;
+}
+
+.experience {
+    background-image: url(Image/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.footer {
+    text-align: center;
+    font-weight: lighter;
+    color: rgb(253, 255, 248);
+    margin-bottom: 30px;
+    background-color: black;
+    height: 100px;
+    padding-top: 50px;
+}
